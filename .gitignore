@@ -1,3 +1,9 @@
 .ipynb_checkpoints
 *.npy
 *.h5
+Make_stored_DATA/-MELS_cnn_1.ipynb
+Make_stored_DATA/-MELS_kan_1.ipynb
+Make_stored_DATA/-MELS_rnn_1.ipynb
+Make_stored_DATA/-MFCC_cnn_1.ipynb
+Make_stored_DATA/-MFCC_kan_1.ipynb
+Make_stored_DATA/-MFCC_rnn_1.ipynb
