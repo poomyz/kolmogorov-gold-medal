@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.venv
 *.npy
 *.h5
 Make_stored_DATA/-MELS_cnn_1.ipynb
